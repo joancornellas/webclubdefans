@@ -12,12 +12,12 @@ body
     background-color: #323940;
     border-radius: 13px;
     transition: background-color .3s;
-    text-decoration-style: none;
 }
 .classmenunavheader a
 {
     color: #F2274C;
     font-size: 14px;
+    text-decoration-line: none;
 }
 .classmenunavheader:hover
 {
