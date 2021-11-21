@@ -1,7 +1,18 @@
-body
-{
-    background-image: url(../img/backgroundimg.png);
-    background-repeat:space;
+/**{
+    border-color: red;
+    border-style: solid;
+}*/
+*{
+    font-family: Arial;
+}
+a{
+    text-decoration-line: none;
+}
+#idimgheader{
+    width: 100%;
+}
+nav ul{
+    text-align: center;
 }
 .classmenunavheader
 {
@@ -17,7 +28,6 @@ body
 {
     color: #F2274C;
     font-size: 14px;
-    text-decoration-line: none;
 }
 .classmenunavheader:hover
 {
@@ -27,4 +37,15 @@ body
 body
 {
     background-color: #A6A6A6;
+}
+#idcopyrightfooter{
+    float: left;
+    width: 49%;
+}
+#iddivxarxesocialfooter{
+    float: right;
+    width: 49%;
+}
+footer div{
+    text-align: center;
 }
