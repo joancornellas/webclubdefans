@@ -10,7 +10,9 @@ body
     margin-left: 35px;
     margin-right: 35px;
     background-color: #323940;
-    border-radius: 15px;
+    border-radius: 13px;
+    transition: background-color .3s;
+    text-decoration-style: none;
 }
 .classmenunavheader a
 {
@@ -20,6 +22,7 @@ body
 .classmenunavheader:hover
 {
     background-color: #000000;
+    transition: background-color .3s;
 }
 body
 {
