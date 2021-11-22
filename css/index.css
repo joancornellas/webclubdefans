@@ -1,9 +1,11 @@
-#idasideesquerre{
+#idasideesquerre {
     width: 49%;
     float: left;
+    margin-bottom: 30px;
 }
-#idarticlenoticies
-{
+
+#idarticlenoticies {
     width: 49%;
     float: right;
+    margin-bottom: 30px;
 }

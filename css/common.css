@@ -11,10 +11,6 @@ a {
     text-decoration-line: none;
 }
 
-#idimgheader {
-    width: 100%;
-}
-
 nav ul {
     text-align: center;
 }
@@ -57,14 +53,22 @@ footer div {
     text-align: center;
 }
 
+html {
+    position: absolute;
+    margin-bottom: 30px;
+}
+
+main {
+    text-align: center;
+}
+
 footer {
-    position: fixed;
-    left: 0;
+    position: absolute;
     bottom: 0;
     width: 100%;
     background-color: #a6a6a681;
 }
 
-main {
-    margin-bottom: 300px;
+#idimgheader {
+    width: 100%;
 }
