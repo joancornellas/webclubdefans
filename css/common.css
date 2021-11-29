@@ -63,7 +63,7 @@ main {
 }
 
 footer {
-    position: absolute;
+    position: fixed;
     bottom: 0;
     width: 100%;
     background-color: #a6a6a681;
@@ -71,4 +71,8 @@ footer {
 
 #idimgheader {
     width: 100%;
+}
+#iddivseparaciofooter
+{
+    margin-top: 7vh;
 }
